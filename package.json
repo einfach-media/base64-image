@@ -1,0 +1,27 @@
+{
+  "name": "base64-image",
+  "version": "1.0.0",
+  "description": "Convert an image to Base 64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/einfach-media/base64-image.git"
+  },
+  "keywords": [
+    "Image-Package",
+    "convert",
+    "base64",
+    "folder",
+    "image",
+    "path"
+  ],
+  "author": "Simon Marcel Linden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/einfach-media/base64-image/issues"
+  },
+  "homepage": "https://github.com/einfach-media/base64-image#readme"
+}
