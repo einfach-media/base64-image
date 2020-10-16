@@ -1,5 +1,5 @@
 {
-  "name": "base64-image",
+  "name": "@simon.marcel.linden/img-2-base64",
   "version": "0.1.0",
   "description": "Convert an image to Base 64",
   "main": "index.js",
